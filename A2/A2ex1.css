@@ -1,0 +1,47 @@
+h1{
+   color: rgb(36, 110, 153);
+   font-family: Arial;
+}
+h2{
+   color: #cc22ff;
+   font-family: Arial;
+} 
+h3{
+   color: #cc22ff;
+   font-family: Arial;
+} 
+body{
+   font-family: serif;
+   text-size-adjust: 1.2em;
+   background-color: #fddaef;
+}
+#Descripcio::first-letter{
+   font-style: bold;
+   font-size: 300%;
+}
+#python{
+   border: 1px solid black;
+}
+p{
+   line-height: 125%;
+}
+a{
+   color: orange;
+}
+.Denji{
+   color: red;
+   font-size: 115%;
+   font-family: sans-serif;
+}
+.Pochita{
+   color: orange;
+   font-size: 115%;
+   font-family: 'Times New Roman', Times, serif;
+
+}
+img{
+   width: 250px;
+   height: 200px;
+}
+
+

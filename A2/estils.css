@@ -1,0 +1,56 @@
+header{
+   background-color: rgb(90, 87, 87);
+   text-align: center;
+   margin-left: 250px;
+   margin-right: 250px;
+}
+h1{
+   color: rgb(60, 120, 153);
+}
+nav{
+   background-color: rgb(90, 87, 87);
+   display: flex;
+   gap: 30px;
+   justify-content: center;
+}
+#general{
+   background-color: white;
+   padding-top: 25px;
+   margin-left: 250px;
+   margin-right: 250px;
+}
+#caixeta{
+   padding-left: 25px;
+   padding-right: 25px;
+}
+#img{
+   padding-top: 10px;
+   text-align: center;
+}
+body{
+   background-color: yellow;
+}
+footer{
+   background-color: blueviolet;
+   text-align: center;
+}
+#data{
+   border-top: 2px solid #000000;
+   border-bottom: 2px solid #000000;
+}
+.icono{
+   width: 15px;
+   height: 15px;
+}
+a{
+   color: orange;
+   text-decoration: none;
+}
+a:hover{
+   color: #000000;
+   text-decoration: underline;
+}
+a:visited{
+   color: orange;
+   text-decoration: none;
+}
