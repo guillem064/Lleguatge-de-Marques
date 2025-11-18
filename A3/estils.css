@@ -1,0 +1,93 @@
+header{
+   background-color: rgb(90, 87, 87);
+   text-align: center;
+   margin-left: 250px;
+   margin-right: 250px;
+}
+h1{
+   color: rgb(60, 120, 153);
+}
+nav{
+   background-color: rgb(90, 87, 87);
+   display: flex;
+   gap: 30px;
+   justify-content: center;
+}
+#general{
+   background-color: white;
+   padding-top: 25px;
+   margin-left: 250px;
+   margin-right: 250px;
+}
+dl{
+   margin: 25px;
+}
+#caixeta{
+   padding-left: 25px;
+   padding-right: 25px;
+}
+#img{
+   padding-top: 10px;
+   text-align: center;
+}
+body{
+   background-color: yellow;
+}
+footer{
+   background-color: blueviolet;
+   text-align: center;
+}
+#data{
+   border-top: 2px solid #000000;
+   border-bottom: 2px solid #000000;
+}
+.icono{
+   width: 15px;
+   height: 15px;
+}
+a{
+   color: orange;
+   text-decoration: none;
+}
+a:hover{
+   color: #000000;
+   text-decoration: underline;
+}
+/*a:visited{
+   color: orange;
+   text-decoration: none;
+}*/
+.imgpersonatges{
+text-align: center;
+}
+.imgpersonatges img{
+width: 100px;
+height: 150px;
+}
+.saber{
+   background-color: rgb(90, 87, 87);
+   margin-left: 600px;
+   margin-right: 600px;
+}
+.imgarcs{
+   display: flex;
+   flex-direction: column;
+   text-align: right;
+}
+.imgarcs img{
+   width: 800px;
+   height: 650px;
+   margin-bottom: 25px;
+   margin-left: 130px;
+}
+#flex{
+   display: flex;
+}
+.cine{
+   color: rgb(48, 136, 139);
+   font-weight: bold;
+   list-style-type: none;
+   background: url("img/icono-cine.png") no-repeat;
+   padding-left: 25px;
+   padding-top: 5px;
+}
