@@ -19,6 +19,9 @@ nav{
    margin-left: 250px;
    margin-right: 250px;
 }
+dl{
+   margin: 25px;
+}
 #caixeta{
    padding-left: 25px;
    padding-right: 25px;
@@ -50,7 +53,41 @@ a:hover{
    color: #000000;
    text-decoration: underline;
 }
-a:visited{
+/*a:visited{
    color: orange;
    text-decoration: none;
+}*/
+.imgpersonatges{
+text-align: center;
+}
+.imgpersonatges img{
+width: 100px;
+height: 150px;
+}
+.saber{
+   background-color: rgb(90, 87, 87);
+   margin-left: 600px;
+   margin-right: 600px;
+}
+.imgarcs{
+   display: flex;
+   flex-direction: column;
+   text-align: right;
+}
+.imgarcs img{
+   width: 800px;
+   height: 650px;
+   margin-bottom: 25px;
+   margin-left: 130px;
+}
+#flex{
+   display: flex;
+}
+.cine{
+   color: rgb(48, 136, 139);
+   font-weight: bold;
+   list-style-type: none;
+   background: url("img/icono-cine.png") no-repeat;
+   padding-left: 25px;
+   padding-top: 5px;
 }
