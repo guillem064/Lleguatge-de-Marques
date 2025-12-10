@@ -1,0 +1,16 @@
+div img{
+    text-align: center;
+    width: 500px;
+    height: 250px;
+    margin:auto;
+}
+#dacm{
+    visibility: hidden;
+    width: 700px;
+    height: 350px;
+    display : block;
+    margin:auto;
+}   
+#ocult{
+    font-size: 250px;
+}
