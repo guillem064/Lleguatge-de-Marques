@@ -27,7 +27,7 @@ body{
     margin-left: 0%;
     margin-right: 0%;
     margin-top: 0%;
-    background-color: green;
+    background-color: white;
 }
 #bodyfake{
     background-color: green;
@@ -39,7 +39,7 @@ body{
     width: 100%;
     font-family: Arial, Helvetica, sans-serif;
 }
-h1{
+#titol{
     margin-left: 50px;
     color: red;
     font-size: 50px;
@@ -64,4 +64,20 @@ footer img{
 }
 caption, td, th{
     padding: 0.3em;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.Titol{
+    font-size: 40px;
+    font-weight: bold;
+    color: darkblue;
+    margin-left: 50px;
+}
+.minititol{
+    color: black;
+}
+form{
+    background-color: lightgray;
 }
