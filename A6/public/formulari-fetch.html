@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <title>Pàgina Servida</title>
+    <link rel="stylesheet" href="estil.css">
+</head>
+<body>
+<div id="formulari">
+        <form action="/procesar" method="POST">
+            <p>Com vols ser dirigit/a?</p>
+            <input type="radio" name="tractament" id="tractament" value="" />
+            <label for="name">Sr.</label><br>
+            <input type="radio" name="sr" id="tractament" value="" />
+            <label for="name">Sra.</label><br>
+            <input type="radio" name="tractament" id="tractament" value="" />
+            <label for="name">Srta.</label><br>
+
+            <label for="text">Nom:</label>
+            <input type="text" name="nom" id="nom"><br>
+            <label for="text">Cognoms:</label>
+            <input type="text" name="cognoms" id="cognoms"><br>
+
+            <label for="text">Telèfon:</label>
+            <input type="text" name="telefon" id="telefon"><br>
+            
+            <label for="text">Correu electrònic:</label>
+            <input type="text" name="email" id="email"><br>
+            <label for="text">Confirmació correu electrònic:</label>
+            <input type="text" name="email" id="email"><br>
+            
+
+            <label for="text">Contrasenya:</label>
+            <input type="password" name="contrasenya" id="contrasenya"><br>
+
+            <p>Quina reserva vols fer?</p>
+            <input type="checkbox" name="individual" id="individual" value="" />
+            <label for="name">Habitació individual</label><br>
+            <input type="checkbox" name="doble" id="doble" value="" />
+            <label for="name">Habitació doble</label><br>
+            <input type="checkbox" name="doblesuperior" id="doblesuperior" value="" />
+            <label for="name">Habitació doble superior</label><br>
+            <input type="checkbox" name="triple" id="triple" value="" />
+            <label for="name">Habitació triple</label><br>
+
+            <label for="persones">nº de persones</label>
+            <input type="number" name="persones" id="persones" min="1" max="10"><br>
+            
+            <label for="entrada">data d'entrada</label>
+            <input type="date" name="entrada" id="entrada"><br>
+            <label for="sortida">data de sortida</label>
+            <input type="date" name="sortida" id="sortida"><br>
+
+            <label for="suplement">Adicions especials</label>
+            <input type="text" name="suplement" id="suplement"><br>
+            <label for="info">no es pot garantir que es compleixin però és fara el possible per complir les adicions</label><br>
+            
+            <p>Extres</p>
+            <input type="checkbox" name="parking" id="parking" value="" />
+            <label for="parking">Parking 8€/nit</label>
+            <label for="parking">El hotel disposa de parking gratüit exterior</label><br>
+
+            <label for="hora">Hora arribada?</label>
+            <input type="text"><br>
+
+            <label for="esmorzar">esmorzar per 5€/dia</label>
+            <input type="checkbox" name="esmorzar" id="esmorzar" value="" /><br>
+            <input type="submit" value="Enviar reserva">
+            
+
+        </form>
+    </div>
+        
+<p id="resposta">
+<script>
+document.getElementById("formFetch").addEventListener("submit",
+function(e) {
+e.preventDefault();
+const nom = document.getElementById("usuari").value;
+fetch("/procesar", {
+method: "POST",
+headers: {
+"Content-Type": "application/x-www-form-urlencoded"
+},
+body: new URLSearchParams({ usuari: nom })
+})
+.then(res => res.text())
+.then(text => {
+document.getElementById("resposta").textContent = text;
+});
+});
+</script>
+</p>
+    <button onclick="location.href='index.html'">Inici</button>
+    <button onclick="location.href='contacte.html'">contacte</button>
+    <button onclick="location.href='formulari.html'">formulari</button>
+</body>
+</html>
