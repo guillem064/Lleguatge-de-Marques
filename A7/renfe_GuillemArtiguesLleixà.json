@@ -1,0 +1,91 @@
+{
+  "renfe": {
+    "titol": "Rodalies de Catalunya",
+
+    "camps": [
+      {
+        "camp": [
+          { "nom": "Origen", "info": "Tortosa" },
+          { "nom": "Destinació", "info": "Tarragona" },
+          { "nom": "Dia", "info": "06/11/2023" },
+          { "nom": "Des de les", "info": "8:00" }
+        ],
+        "boto": { "nom": "Cerca" },
+        "pdf": { "nom": "Tots els horaris" },
+        "textAdicional": {
+          "text": "Seleccioneu només el origen per veure les sortides en temps real"
+        }
+      },
+      {
+        "camp": [
+          { "nom": "Origen", "info": "Tortosa" },
+          { "nom": "Destinació", "info": "Tarragona" },
+          { "nom": "Dia", "info": "06/11/2023" },
+          { "nom": "Des de les", "info": "8:00" },
+          { "nom": "El temps a la destinació", "info": "12º 20º" }
+        ]
+      }
+    ],
+
+    "avisos": {
+      "titol": "Atenció!",
+      "avis": [
+        {
+          "text": "A partir del 29 d'octubre s'inicia la segona fase de les obres de duplicació de via entre Parets dels Vallès i La Garriga que modifiquen el servei de la linia R3."
+        },
+        {
+          "text": "Sense servei ferroviari entre Parets del Vallès i Figaró."
+        },
+        {
+          "text": "Consulteu tota la informació a Afeccions Programades / Nova fase d'obres d'Adif - Modificació R3 i l'horari de l'R3 en pdf."
+        }
+      ]
+    },
+
+    "resultats": {
+      "titol": "Resultats planificats",
+
+      "subpagines": [
+        "Horaris d'anada",
+        "Horaris de tornada"
+      ],
+
+      "columnes": [
+        "Sortida",
+        "Arribada",
+        "Durada"
+      ],
+
+      "horaris": [
+        { "sortida": "09:23", "arribada": "10:47", "durada": "01:24" },
+        { "sortida": "11:32", "arribada": "12:50", "durada": "01:18" },
+        { "sortida": "13:51", "arribada": "15:00", "durada": "01:09" },
+        { "sortida": "15:37", "arribada": "16:56", "durada": "01:19" },
+        { "sortida": "16:32", "arribada": "17:51", "durada": "01:19" },
+        { "sortida": "18:30", "arribada": "19:51", "durada": "01:21" },
+        { "sortida": "20:55", "arribada": "22:16", "durada": "01:21" }
+      ],
+
+      "caracteristiquesEspecials": [
+        "Regional",
+        "Regional Exprés",
+        "Mitja Distància",
+        "Estació o tren accessible"
+      ]
+    },
+
+    "tarifes": {
+      "titol": "Tarifes",
+      "subtitol": "Serveis regionals",
+      "tarifa": [
+        { "nom": "Senzill RE", "preu": "8,05€" },
+        { "nom": "Bono Exprés RE", "preu": "57,5€" },
+        { "nom": "Abonament Mensual RE", "preu": "148,0€" },
+        { "nom": "Abonament Trimestral RE", "preu": "395,7€" }
+      ],
+      "info": {
+        "text": "Més tarifes i informació sobre l'abonament gratüit i la reducció de tarifes."
+      }
+    }
+  }
+}

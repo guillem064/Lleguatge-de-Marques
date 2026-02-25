@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<renfe>
+    <titol>Rodalies de Catalunya</titol>
+    <camps>
+        <camp>
+            <nom>Origen</nom>
+            <info>Tortosa</info>
+        </camp>
+        <camp>
+            <nom>Destinació</nom>
+            <info>Tarragona</info>
+        </camp>
+        <camp>
+            <nom>Dia</nom>
+            <info>06/11/2023</info>
+        </camp>
+        <camp>
+            <nom>Des de les</nom>
+            <info>8:00</info>
+        </camp>
+        <boto>
+            <nom>Cerca</nom>
+        </boto>
+        <pdf>
+            <nom>Tots els horaris</nom>
+        </pdf>  
+        <textAdicional>
+            <text>Seleccioneu només el origen per veure les sortides en temps real</text>
+        </textAdicional>
+    </camps>
+    <Avis>
+        <titol>Atenció!</titol>
+        <aviso>
+            <text>A partir del <b>29 d'octubre s'inicia la segona fase</b> de les obres  de duplicació de via entre Parets dels Vallès i La Garriga que modifiquen el servei de la <b>linia R3.</b></text>
+        </aviso>
+        <aviso>
+            <text><b>Sense servei  ferroviari entre Parets del Vallès i Figaró.</b></text>
+        </aviso>
+        <aviso>
+            <text>Consulteu tota la informació a <a>Afeccions Programades / Nova fase d'obres d'Adif - Modificació R3</a> i <a>l'horari de l'R3 en pdf.</a></text>
+        </aviso>
+    </Avis>
+    <camps>
+        <camp>
+            <nom>Origen</nom>
+            <info>Tortosa</info>
+        </camp>
+        <camp>
+            <nom>Destinació</nom>
+            <info>Tarragona</info>
+        </camp>
+        <camp>
+            <nom>Dia</nom>
+            <info>06/11/2023</info>
+        </camp>
+        <camp>
+            <nom>Des de les</nom>
+            <info>8:00</info>
+        </camp>  
+        <camp>
+            <nom>El temps a la destinació</nom>
+            <info>12º 20º</info>
+        </camp>
+    </camps>
+    <resultats>
+        <titol>Resultats planificats</titol>
+        <subpagines>
+            <subpagina>
+                <nom>Horaris d'anada</nom>
+            </subpagina>
+            <subpagina>
+                <nom>Horaris de tornada</nom>
+            </subpagina>
+        </subpagines>
+        <columnes>
+            <columna>
+                <nom>Sortida</nom>
+            </columna>
+            <columna>
+                <nom>Arribada</nom>
+            </columna>
+            <columna>
+                <nom>Durada</nom>
+            </columna>
+        </columnes>
+        <resultat>
+            <sortida>09:23</sortida>
+            <arribada>10:47</arribada>
+            <durada>01:24</durada>
+        </resultat>
+        <resultat>
+            <sortida>11:32</sortida>
+            <arribada>12:50</arribada>
+            <durada>01:18</durada>
+        </resultat>
+        <resultat>
+            <sortida>13:51</sortida>
+            <arribada>15:00</arribada>
+            <durada>01:09</durada>
+        </resultat>
+        <resultat>
+            <sortida>15:37</sortida>
+            <arribada>16:56</arribada>
+            <durada>01:19</durada>
+        </resultat>
+        <resultat>
+            <sortida>16:32</sortida>
+            <arribada>17:51</arribada>
+            <durada>01:19</durada>
+        </resultat>
+        <resultat>
+            <sortida>18:30</sortida>
+            <arribada>19:51</arribada>
+            <durada>01:21</durada>
+        </resultat>
+        <resultat>
+            <sortida>20:55</sortida>
+            <arribada>22:16</arribada>
+            <durada>01:21</durada>
+        </resultat>
+        <caracteristicaEspecial>
+            <tipo>Regional</tipo>
+            <tipo>Regional Exprés</tipo>
+            <tipo>Mitja Distància</tipo>
+            <tipo>Estació o tren accessible</tipo>
+        </caracteristicaEspecial>
+    </resultats>
+    <tarifes>
+        <titol>Tarifes</titol>
+        <subtitol>Serveis regionals</subtitol>
+        <tarifa>
+            <nom>Senzill RE:</nom>
+            <preu>8,05€</preu>
+        </tarifa>
+        <tarifa>
+            <nom>Bono Exprés RE:</nom>
+            <preu>57,5€</preu>
+        </tarifa>
+        <tarifa>
+            <nom>Abonament Mensual RE:</nom>
+            <preu>148,0€</preu>
+        </tarifa>
+        <tarifa>
+            <nom>Abonament Trimestral RE:</nom>
+            <preu>395,7€</preu>
+        </tarifa>
+        <info>
+            <text>Més tarifes i informació sobre l'abonament gratüit i la reducció de tarifes.</text>
+        </info>
+    </tarifes>
+</renfe>
