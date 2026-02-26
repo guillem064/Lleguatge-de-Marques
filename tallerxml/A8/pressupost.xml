@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Presupostos>
+  <presupost>
+    <placaBase>
+      <nom>Placa Base MSI MPG B550 GAMING PLUS </nom>
+      <preu>116.99€</preu>
+      <opinions>4.7</opinions>
+      <fabricant>MSI </fabricant>
+    </placaBase>
+    <processador>
+      <nom>Procesador AMD Ryzen 5 5600 3.5GHz Box</nom>
+      <preu>114.95€</preu>
+      <opinions>4.7</opinions>
+      <fabricant>AMD</fabricant>
+    </processador>
+    <ram>
+      <nom>Memoria RAM Forgeon Cyclone PLUS V2 DDR4 3200 MHz 32GB 2x16GB CL16 Negra</nom>
+      <preu>259.95€</preu>
+      <opinions>4.7</opinions>
+      <fabricant>Forgeon</fabricant>
+    </ram>
+    <discDur>
+      <nom>Disco Duro WD Red Plus NAS 6TB Disco Interno HDD 3.5" 256MB SATA 3</nom>
+      <preu>184.93€</preu>
+      <opinions>4.6</opinions>
+      <fabricant>Western Digital</fabricant>
+    </discDur>
+    <targetaGrafica>
+      <nom>Tarjeta Gráfica ASUS PRIME GeForce RTX 5060 OC Edition 8GB GDDR7 Reflex 2 RTX AI DLSS4</nom>
+      <preu>335.85€</preu>
+      <opinions>4.7</opinions>
+      <fabricant>Asus</fabricant>
+    </targetaGrafica>
+    <targetadeso>
+      <nom>Creative Sound Blaster Audigy Fx V2 Tarjeta de Sonido Interna PCI-e</nom>
+      <preu>46.98€</preu>
+      <opinions>4.5</opinions>
+      <fabricant>Creative</fabricant>
+    </targetadeso>
+    <iva>IVA 21%</iva>
+    <preuTotal>Preu total: 1282,18€</preuTotal>
+    <formaPagament>Targeta</formaPagament>
+  </presupost>
+   <presupost>
+    <placaBase>
+      <nom>Placa Base MSI B850 GAMING PLUS WIFI </nom>
+      <preu>187.90€</preu>
+      <opinions>4.5</opinions>
+      <fabricant>MSI </fabricant>
+    </placaBase>
+    <processador>
+      <nom>Procesador AMD Ryzen 9 9950X3D 4.3/5.7GHz Box</nom>
+      <preu>679.95€</preu>
+      <opinions>4.7</opinions>
+      <fabricant>AMD</fabricant>
+    </processador>
+    <ram>
+      <nom>Memoria RAM Forgeon Cyclone PRO RGB DDR5 6000 MHz 32GB 2x16GB CL30 Negra</nom>
+      <preu>529.95€</preu>
+      <opinions>4.8</opinions>
+      <fabricant>Forgeon</fabricant>
+    </ram>
+    <discDur>
+      <nom>Disco Duro Seagate Ironwolf NAS 12TB Disco interno HDD 3.5" SATA 3</nom>
+      <preu>359.95€</preu>
+      <opinions>4.6</opinions>
+      <fabricant>Seagate</fabricant>
+    </discDur>
+    <targetaGrafica>
+      <nom>Tarjeta Gráfica Gigabyte GeForce RTX 5090 GAMING OC 32GB GDDR7 Reflex 2 RTX AI DLSS4</nom>
+      <preu>4280.94€</preu>
+      <opinions>4.7</opinions>
+      <fabricant>Gigabyte</fabricant>
+    </targetaGrafica>
+    <targetadeso>
+      <nom>Creative Sound Blaster Z SE Tarjeta de Sonido y DAC PCI-e para Juegos</nom>
+      <preu>83.01€</preu>
+      <opinions>4.7</opinions>
+      <fabricant>Creative</fabricant>
+    </targetadeso>
+    <iva>IVA 21%</iva>
+    <preuTotal>Preu total: 7406,82€</preuTotal>
+    <formaPagament>Targeta</formaPagament>
+  </presupost>
+</Presupostos>
