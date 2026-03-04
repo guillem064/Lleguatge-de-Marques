@@ -1,0 +1,108 @@
+[
+{
+"nom":"Relojes Emporio Armani Chronograph AR2434",
+"codi":"AR2434",
+"preu":"102.30€"
+},
+{
+"informacio general":{
+"marca":"Emporio Armani",
+"model":"AR2434 (Edició Chronograph)",
+"preu_actual":"102.30€ (PVP recomanat: 349,00 €)",
+"genere":"Home",
+"moviment":"Quars (Bateria)",
+"resistencia":"50m Apte per dutxa",
+"garantia":"24 mesos",
+"mesures":"Diàmetre: 43 mm Gruix: 14 mm"
+},
+"més_informacio":{
+"tipus":"Estil esportiu De moda",
+"calendari":"Sí",
+"funcions_especials":"Cronògraf"
+},
+"caixa_i_esfera":{
+"color_caixa":"Platejat",
+"color_esfera":"Negre",
+"material_caixa":"Acer inoxidable",
+"cristall":"Mineral",
+"tipus_d'esfera":"Analògic",
+"forma_del_rellotge":"Rodona"
+},
+"corretja":{
+"color_corretja":"Platejat",
+"material_corretja":"Acer inoxidable",
+"contorn_màxim_del_canell":"200mm"
+}
+},    
+{
+"nom":"Rellotges Casio Vintage A168WG-9EF",
+"codi":"A168WG-9EF",
+"preu":"50,90€"
+},
+{
+"informacio general":{
+"marca":"Casio",
+"model":"A168WG-9EF (Edició Vintage)",
+"preu_actual":"50,90€ (PVP recomanat: 59,90 €)",
+"genere":"Home",
+"moviment":"Quars (Bateria)",
+"resistencia":"30m Protecció humitat",
+"garantia":"24 mesos",
+"mesures":"Diàmetre: 36,3 mm Gruix: 9,6 mm",
+"pes":"51g"
+},
+"més_informacio":{
+"tipus":"De moda Estil retro",
+"calendari":"Sí",
+"funcions_especials":"Cronògraf Alarma Il·luminació"
+},
+"caixa_i_esfera":{
+"color_caixa":"Daurat",
+"color_esfera":"LCD",
+"material_caixa":"Acer inox. - Plàstic",
+"cristall":"Acrílic",
+"tipus_d'esfera":"Digital",
+"forma_del_rellotge":"Quadrat"
+},
+"corretja":{
+"color_corretja":"Daurat",
+"material_corretja":"Acer inoxidable",
+"contorn_màxim_del_canell":"195 mm"
+}
+},  
+{
+"nom":"Rellotges Tommy Hilfiger 1791788",
+"codi":"1791788",
+"preu":"87.60€"
+},
+{
+"informacio general":{
+"marca":"Tommy Hilfiger",
+"model":"1791788 (Col·lecció Bank)",
+"preu_actual":"87.60€",
+"genere":"Home",
+"moviment":"Quars (Bateria)",
+"resistencia":"50m Apte per dutxa",
+"garantia":"24 mesos",
+"mesures":"Diàmetre: 45 mm Gruix:10,5 mm"
+},
+"més_informacio":{
+"tipus":"De moda",
+"calendari":"Sí",
+"funcions_especials":"Multifunció"
+},
+"caixa_i_esfera":{
+"color_caixa":"Platejat",
+"color_esfera":"Blau",
+"material_caixa":"Acer inoxidable",
+"cristall":"Mineral",
+"tipus_d'esfera":"Analògic",
+"forma_del_rellotge":"Rodona"
+},
+"corretja":{
+"color_corretja":"Platejat",
+"material_corretja":"Acer inoxidable Malla milanesa",
+"contorn_màxim_del_canell":"195mm"
+}
+}  
+]

@@ -1,0 +1,41 @@
+[
+{
+"movil": {
+    "nom":"Apple iPhone 17 Pro Max, Naranja cósmico, 512 GB, 5G, 6.9' OLED Super Retina XDR, Chip A19 Pro, iOS",
+    "pantalla":"17.52 cm / 6.9' ",
+    "memoria":"512 GB",
+    "Sistema_operativo":"iOS",
+    "procesador":"Chip A19 Pro"
+},
+"iva":"21%",
+"preuTotal":"1666€",
+"formaPagament":"Targeta"
+},
+{
+"movil": {
+    "nom":"Samsung Galaxy Z Fold7, Plata, 512 GB, 12 GB RAM , 8' QXGA+, Snapdragon 8 Elite, 4400 mAh, Android 16",
+    "pantalla":"20.3 cm / 8' ",
+    "memoria":"512 GB",
+    "Sistema_operativo":"Android",
+    "procesador":"Qualcomm Snapdragon 8 Elite"
+},
+"iva":"21%",
+"preuTotal":"2199€",
+"formaPagament":"Efectiu"
+},
+{
+"movil": {
+    "nom":"Xiaomi 17 Ultra, Negro, 512GB, 16GB RAM, 6.9' Hyper RGB OLED display, Snapdragon® 8 Elite Gen 5 Mobile Platform, 6000 mAh",
+    "pantalla":"17.53 cm / 6.9' ",
+    "memoria":"512 GB",
+    "Sistema_operativo":"HyperOS",
+    "procesador":"Snapdragon® 8 Elite Gen 5 Mobile Platform"
+},
+"iva":"21%",
+"preuTotal":"1499€",
+"formaPagament":"Targeta"
+}
+]
+
+
+    
