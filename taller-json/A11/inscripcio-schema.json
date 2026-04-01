@@ -1,0 +1,49 @@
+{
+    "type": "object",
+    "required": ["nom-equip", "jugadors"],
+    "properties": {
+        "nom-equip": {
+            "type": "string"
+        },
+        "jugadors": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 10,
+            "items": {
+                "type": "object",
+                "required": ["num-jugador", "DNI", "nom", "cognom", "ciutat", "email"],
+                "properties": {
+                    "num-jugador": {
+                        "type": "integer"
+                    },
+                    "DNI": {
+                        "type": "string"
+                    },
+                    "nom": {
+                        "type": "string"
+                    },
+                    "cognom": {
+                        "type": "string"
+                    },
+                    "edat": {
+                        "type": "integer"
+                    },
+                    "ciutat": {
+                        "type": "string"
+                    },
+                    "adreça": {
+                        "type": "string"
+                    },
+                    "telèfon": {
+                        "type": "integer"
+                    },
+                    "email": {
+                        "type": "string",
+                        "pattern": "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$"
+                    }
+                }
+            }
+        }
+    }
+}
+   
