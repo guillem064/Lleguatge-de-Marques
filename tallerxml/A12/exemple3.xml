@@ -1,0 +1,34 @@
+<peticio llibreria="Fantasia SL">
+<data>15-11-2024</data>
+    <autor>
+        <nom>Jules Verne</nom>
+        <llibres>
+            <llibre>
+                <titol>Vint mil llegües de viatge submarí</titol>
+                <quantitat>2</quantitat>
+            </llibre>
+        </llibres>
+    </autor>
+    <autor>
+        <nom>John Ronald Reuel Tolkien</nom>
+        <llibres>
+            <llibre>
+                <titol>El Hobbit</titol>
+                <quantitat>2</quantitat>
+            </llibre>
+            <llibre>
+                <titol>El Senyor dels Anells</titol>
+                <quantitat>2</quantitat>
+            </llibre>
+        </llibres>
+    </autor>
+    <autor>
+        <nom>Bram Stoker</nom>
+        <llibres>
+            <llibre>
+                <titol>Dracula</titol>
+                <quantitat>3</quantitat>
+            </llibre>
+        </llibres>
+    </autor>
+</peticio>

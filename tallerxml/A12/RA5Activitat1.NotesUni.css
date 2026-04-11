@@ -1,0 +1,22 @@
+notes {
+    background-color: aqua;
+}
+
+nom_assignatura {
+    font-size: 35px;
+    color: green;
+    display: block;
+}
+
+alumne {
+    margin-left: 20px;
+    display: block;
+}
+
+nom{
+    color: red;
+}
+
+nota {
+    font-weight: bold;
+}

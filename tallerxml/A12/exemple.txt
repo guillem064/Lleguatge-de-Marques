@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<comanda>
+  <llibreria data="15-11-2024">Fantasia SL</llibreria>
+  <llibre quantitat="2">
+    <nom>Vint mil llegües de viatge submarí</nom>
+    <autor>Jules Verne</autor>
+  </llibre>
+  <llibre quantitat="2">
+    <nom>El Hobbit</nom>
+    <autor>John Ronald Reuel Tolkien</autor>
+  </llibre>
+  <llibre quantitat="2">
+    <nom>El Senyor dels Anells</nom>
+    <autor>John Ronald Reuel Tolkien</autor>
+  </llibre>
+  <llibre quantitat="3">
+    <nom>Dracula</nom>
+    <autor>Bram Stoker</autor>
+  </llibre>
+</comanda>
